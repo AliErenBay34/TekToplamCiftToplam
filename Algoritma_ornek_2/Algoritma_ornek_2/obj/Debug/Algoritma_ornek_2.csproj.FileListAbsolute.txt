@@ -1,0 +1,10 @@
+C:\Users\4l1er\Desktop\Çalışma\C#\Algoritma_ornek_2\Algoritma_ornek_2\bin\Debug\Algoritma_ornek_2.exe.config
+C:\Users\4l1er\Desktop\Çalışma\C#\Algoritma_ornek_2\Algoritma_ornek_2\bin\Debug\Algoritma_ornek_2.exe
+C:\Users\4l1er\Desktop\Çalışma\C#\Algoritma_ornek_2\Algoritma_ornek_2\bin\Debug\Algoritma_ornek_2.pdb
+C:\Users\4l1er\Desktop\Çalışma\C#\Algoritma_ornek_2\Algoritma_ornek_2\obj\Debug\Algoritma_ornek_2.csproj.AssemblyReference.cache
+C:\Users\4l1er\Desktop\Çalışma\C#\Algoritma_ornek_2\Algoritma_ornek_2\obj\Debug\Algoritma_ornek_2.Form1.resources
+C:\Users\4l1er\Desktop\Çalışma\C#\Algoritma_ornek_2\Algoritma_ornek_2\obj\Debug\Algoritma_ornek_2.Properties.Resources.resources
+C:\Users\4l1er\Desktop\Çalışma\C#\Algoritma_ornek_2\Algoritma_ornek_2\obj\Debug\Algoritma_ornek_2.csproj.GenerateResource.cache
+C:\Users\4l1er\Desktop\Çalışma\C#\Algoritma_ornek_2\Algoritma_ornek_2\obj\Debug\Algoritma_ornek_2.csproj.CoreCompileInputs.cache
+C:\Users\4l1er\Desktop\Çalışma\C#\Algoritma_ornek_2\Algoritma_ornek_2\obj\Debug\Algoritma_ornek_2.exe
+C:\Users\4l1er\Desktop\Çalışma\C#\Algoritma_ornek_2\Algoritma_ornek_2\obj\Debug\Algoritma_ornek_2.pdb
